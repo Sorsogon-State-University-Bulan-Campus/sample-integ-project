@@ -1,2 +1,4 @@
 # Sample Project for Integrative Programming and Technologies Subject
-This is a sample project for Integrative Programming and Technologies subject
+
+* Describe here what is your project is all about.
+* FAQs
